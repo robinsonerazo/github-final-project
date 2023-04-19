@@ -1,2 +1,2 @@
 # github-final-project
-FullStack IBM - GitHub - FINAL PROJECT
+FullStack IBM | GitHub - FINAL PROJECT
